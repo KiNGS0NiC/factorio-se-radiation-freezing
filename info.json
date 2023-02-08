@@ -1,0 +1,10 @@
+{
+  "name": "se-radiator-freezing",
+  "version": "1.0.0",
+  "title": "SE Thermal Radiator Freezing",
+  "author": "KiNG_S0NiC",
+  "dependencies": [
+    "base >= 1.1.76",
+    "space-exploration >= 0.6.99"
+  ]
+}
