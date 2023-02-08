@@ -48,7 +48,7 @@ local waterFreezingRecipe = {
     name = "water-freezing",
     category = "space-radiator",
     enabled = false,
-    energy_required = 4,
+    energy_required = 6,
     ingredients =
     {
         { type = "fluid", name = "water", amount = 100 }
@@ -64,7 +64,7 @@ local methaneFreezingRecipe = {
     name = "methane-freezing",
     category = "space-radiator",
     enabled = false,
-    energy_required = 4,
+    energy_required = 6,
     ingredients =
     {
         { type = "fluid", name = "se-methane-gas", amount = 10 }
