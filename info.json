@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "title": "SE Thermal Radiator Freezing",
   "author": "KiNG_S0NiC",
+  "description": "Adds water and methane freezing in thermal radiators.",
+  "factorio_version": "1.1",
   "dependencies": [
     "base >= 1.1.76",
     "space-exploration >= 0.6.99"
